@@ -1,8 +1,7 @@
 # utl-pivot-longer-when-transpose-does-not-work-sas-gather-macro-key-value-pairs
-utl-pivot-longer-when-transpose-does-not-work-sas-gather-macro-key-value-pairs
     %let pgm=utl-pivot-longer-when-transpose-does-not-work-sas-gather-macro-key-value-pairs;
 
-    utl-pivot-longer-when-transpose-does-not-work-sas-gather-macro-key-value-pairs;
+    Pivot longer when transpose does not work sas gather macro key value pairs;
 
     github
     http://tinyurl.com/cf7zs29a
@@ -22,6 +21,11 @@ utl-pivot-longer-when-transpose-does-not-work-sas-gather-macro-key-value-pairs
              Alea Iacta aleaiacta95@gmail.com
 
     gather macro on end
+
+    related repos
+    https://github.com/rogerjdeangelis/utl-simple-transpose-of-two-variables-using-normalization-gather-and-untranspose
+    https://github.com/rogerjdeangelis/utl-transposing-normalizing-a-table-using-four-techniques-arrays-untranspose-transpose-and-gather
+    https://github.com/rogerjdeangelis/utl_gather_macro_and_proc_report_for_quick_crosstabs_with_meaningful_names
 
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
@@ -442,3 +446,5 @@ utl-pivot-longer-when-transpose-does-not-work-sas-gather-macro-key-value-pairs
      \___|_| |_|\__,_|
 
     */
+
+  
